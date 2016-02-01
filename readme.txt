@@ -1,2 +1,3 @@
 Git is a disturbted version control system
-Gis is a free software disturbted under the GPL
+Git is a free software disturbted under the GPL
+Git has a mutable index called stage
