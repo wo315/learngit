@@ -1,2 +1,2 @@
 Git is a disturbted version control system
-Gis is a free software
+Gis is a free software disturbted under the GPL
